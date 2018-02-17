@@ -1,0 +1,8 @@
+{
+    "name": "package_d",
+    "author": "manan",
+    "dependencies": {
+	"package_e": "https://github.com/stewy33/package-e.git",
+	"package_f": "https://github.com/EnterManan/package-f.git" 
+    }
+}
